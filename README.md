@@ -7,4 +7,4 @@
 | 電子郵件         | C110252113@nkust.edu.tw          |
 | 選修             | 智慧城市導論                |
 
- |<img src="" width=100 height=100/>|
+ |<img src="https://github.com/C110252113/C110252113/commit/94a777144033034df77e3654a5420c6aa8ba89eb" width=100 height=100/>|
