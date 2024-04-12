@@ -8,5 +8,11 @@
 | 學號        | C110252113                  |
 | 電子郵件         | C110252113@nkust.edu.tw          |
 | 選修             | 智慧城市導論                |
+# 教育背景
+
+|國中 | 左營國中     |
+| ---------------- |:-----------------------------:|
+| 高中         |國立山農工 汽修科            |
+| 大學         | 高雄科技大學  電子工程系               |
 # QRcode
- |<img src="https://github.com/C110252113/C110252113/blob/main/QR.PNG" width=300 height=300/>|
+ |<img src="https://github.com/C110252113/C110252113/blob/main/QR.PNG" width=333 height=333/>|
